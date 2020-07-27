@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "KillProcess": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
